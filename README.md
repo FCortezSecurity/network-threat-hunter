@@ -60,4 +60,4 @@ network-threat-hunter/
 
 ## Author
 
-Fernando Cortez Jr. — https://github.com/cpt-ferna02
+Fernando Cortez Jr. — https://github.com/FCortezSecurity
