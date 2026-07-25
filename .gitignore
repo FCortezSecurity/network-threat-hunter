@@ -4,3 +4,4 @@ uploads/*.pcap
 __pycache__/
 *.pyc
 reports/
+.env
